@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1549288120 source:d:\bestanden\data\codes\programeren\c++\projecten\templateturing\main.cpp
+	<iostream>
+	"turing/machine.hpp"
+
+1549288727 d:\bestanden\data\codes\programeren\c++\projecten\templateturing\turing\machine.hpp
+	"turing/state.hpp"
+	"turing/tape.hpp"
+
+1549276264 d:\bestanden\data\codes\programeren\c++\projecten\templateturing\turing\state.hpp
+	"turing/rule.hpp"
+	<cstddef>
+
+1549276090 d:\bestanden\data\codes\programeren\c++\projecten\templateturing\turing\rule.hpp
+
+1549280461 d:\bestanden\data\codes\programeren\c++\projecten\templateturing\turing\tape.hpp
+
